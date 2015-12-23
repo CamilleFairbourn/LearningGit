@@ -2,7 +2,6 @@
 #Highlight them and press Run or CTRL+ENTER
 require(mosaic)
 require(openintro)
-require(MASS)
 
 #Read in the Single dataset
 Single<-read.csv("http://www.math.usu.edu/cfairbourn/Stat2300/RStudioFiles/data/Single.csv")
